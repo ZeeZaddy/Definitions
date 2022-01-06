@@ -1,0 +1,13 @@
+#1 - Polymorphism is a pillar of OOP that inherits methods and alters those methods
+to perform different tasks in comparison to their original method. There is Dynamic
+and Static Polymorphism which can be differentiated by where the altered method is
+executing as well as how the inherited method is being altered.
+
+#2 - Polymorphism-changing the behavior of objects that allows for them to take on different 
+properties and states based on context. Mostly done through methods that child classes inherit and 
+then overriding and change the parameters (fruit has a color, and strawberry's color is red) 
+and overloading the method to give more parameters. (strawberries are red, and they have a green stem). 
+Used to make it so the code doesn't become redundant.
+
+#3 - Polymorphism is an Object Oriented Programming language property in Java that allows you to modify 
+methods that have the same name but have different behaviors whether it's overloading or overriding.
